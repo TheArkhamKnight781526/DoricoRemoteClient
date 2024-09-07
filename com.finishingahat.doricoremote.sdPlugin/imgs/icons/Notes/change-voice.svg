@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="0" y="0" width="72" height="72" style="fill:rgb(0,63,122);"/>
+    <g id="change-voice.svg" transform="matrix(0.0412371,0,0,0.0412371,36.488,29.952)">
+        <g transform="matrix(1,0,0,1,-485,-480)">
+            <g transform="matrix(1,0,0,1,10,0)">
+                <path d="M390.5,429.5C376.833,418.5 370,403.667 370,385C370,363.667 376.667,343.333 390,324C403.333,304.667 421.167,289.167 443.5,277.5C465.833,265.833 490.333,260 517,260C529,260 540,262 550,266L550,20C550,14.667 552,10 556,6C560,2 564.667,0 570,0C575.333,0 580,2 584,6C588,10 590,14.667 590,20L590,322C590,342 582.5,361.667 567.5,381C552.5,400.333 533.5,416 510.5,428C487.5,440 465,446 443,446C421.667,446 404.167,440.5 390.5,429.5ZM370,638C370,618 377.5,598.333 392.5,579C407.5,559.667 426.5,544 449.5,532C472.5,520 495,514 517,514C538.333,514 555.833,519.5 569.5,530.5C583.167,541.5 590,556.333 590,575C590,596.333 583.333,616.667 570,636C556.667,655.333 538.833,670.833 516.5,682.5C494.167,694.167 469.667,700 443,700C431,700 420,698 410,694L410,940C410,945.333 408,950 404,954C400,958 395.333,960 390,960C384.667,960 380,958 376,954C372,950 370,945.333 370,940L370,638Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,10.8675,61.408)">
+        <text x="0px" y="0px" style="font-family:'SourceSansPro-Regular', 'Source Sans Pro', sans-serif;font-size:9px;fill:white;">Chang<tspan x="23.904px " y="0px ">e</tspan> V<tspan x="34.668px " y="0px ">o</tspan>ic<tspan x="45.675px " y="0px ">e</tspan></text>
+    </g>
+</svg>

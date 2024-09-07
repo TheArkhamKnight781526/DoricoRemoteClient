@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="0" y="0" width="72" height="72" style="fill:rgb(122,0,0);"/>
+    <g transform="matrix(1,0,0,1,27.6917,23.0729)">
+        <text x="0px" y="11.4px" style="font-family:'Bravura';font-size:24px;fill:white;"></text>
+    </g>
+    <g transform="matrix(1,0,0,1,-5.91099,0.239462)">
+        <text x="28.776px" y="62.647px" style="font-family:'SourceSansPro-Regular', 'Source Sans Pro', sans-serif;font-size:10px;fill:white;">T<tspan x="33.676px 37.046px " y="62.647px 62.647px ">re</tspan>ble</text>
+    </g>
+</svg>

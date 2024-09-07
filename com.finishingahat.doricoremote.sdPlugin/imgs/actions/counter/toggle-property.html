@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Dorico Remote Command</title>
+    <link rel="stylesheet" href="sdpi.css" />
+    <script src="https://cdn.jsdelivr.net/gh/geekyeggo/sdpi-components@v2/dist/sdpi-components.js"></script>
+  </head>
+
+  <body>
+    <sdpi-item label="Property">
+      <sdpi-textfield
+        setting="property"
+        required
+        placeholder="Property to Check Here"
+      ></sdpi-textfield>
+    </sdpi-item>
+    <sdpi-item label="Property Value">
+      <sdpi-textfield
+        setting="property_value"
+        placeholder="Toggle if Property Value Matches Here"
+      ></sdpi-textfield>
+    </sdpi-item>
+    <sdpi-item label="On Command">
+      <sdpi-textfield
+        setting="on_command"
+        required
+        placeholder="If Property Value Doesn't Match, Execute Command Here"
+      ></sdpi-textfield>
+    </sdpi-item>
+    <sdpi-item label="Off Command">
+      <sdpi-textfield
+        setting="off_command"
+        required
+        placeholder="If Property Value Matches, Execute Command Here"
+      ></sdpi-textfield>
+    </sdpi-item>
+  </body>
+</html>

@@ -1,0 +1,72 @@
+{
+  "Name": "DoricoRemote",
+  "Version": "0.1.0.0",
+  "Author": "FinishingAHat",
+  "Actions": [
+    {
+      "Name": "Command",
+      "UUID": "com.finishingahat.doricoremote.command",
+      "Icon": "imgs/actions/counter/icon",
+      "Tooltip": "Sends an HTTP GET request to Port 5000, which is received by the C# server.",
+      "Controllers": ["Keypad"],
+      "States": [
+        {
+          "Image": "imgs/actions/counter/key",
+          "TitleAlignment": "middle"
+        }
+      ],
+      "PropertyInspectorPath": "imgs/actions/counter/send-command.html"
+    },
+    {
+      "Name": "ToggleSlur",
+      "UUID": "com.finishingahat.doricoremote.toggle_slur",
+      "Icon": "imgs/actions/counter/icon",
+      "Tooltip": "Toggles Slur - Based only on Stream Deck, not Dorico",
+      "Controllers": ["Keypad"],
+      "States": [
+        {
+          "Image": "imgs/actions/counter/key",
+          "TitleAlignment": "middle"
+        }
+      ]
+    },
+    {
+      "Name": "ToggleProperty",
+      "UUID": "com.finishingahat.doricoremote.toggle_property",
+      "Icon": "imgs/actions/counter/icon",
+      "Tooltip": "Toggles Command based on Property",
+      "Controllers": ["Keypad"],
+      "States": [
+        {
+          "Image": "imgs/actions/counter/key",
+          "TitleAlignment": "middle"
+        }
+      ],
+      "PropertyInspectorPath": "imgs/actions/counter/toggle-property.html"
+    }
+  ],
+  "Category": "DoricoRemote",
+  "CategoryIcon": "imgs/plugin/category-icon",
+  "CodePath": "bin/plugin.js",
+  "Description": "Stream Deck Plugin for interfacing with Dorico",
+  "Icon": "imgs/plugin/marketplace",
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "6.5"
+  },
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.15"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Nodejs": {
+    "Version": "20",
+    "Debug": "enabled"
+  },
+  "UUID": "com.finishingahat.doricoremote"
+}

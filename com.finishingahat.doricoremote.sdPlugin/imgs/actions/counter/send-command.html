@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Dorico Remote Command</title>
+    <link rel="stylesheet" href="sdpi.css" />
+    <script src="https://cdn.jsdelivr.net/gh/geekyeggo/sdpi-components@v2/dist/sdpi-components.js"></script>
+  </head>
+
+  <body>
+    <sdpi-item label="Command">
+      <sdpi-textfield
+        setting="command"
+        required
+        placeholder="Dorico Command Here"
+      ></sdpi-textfield>
+    </sdpi-item>
+    <sdpi-item label="Parameter Names (Optional)">
+      <sdpi-textfield
+        setting="parameternames"
+        placeholder="Command Parameter Names Here"
+      ></sdpi-textfield>
+    </sdpi-item>
+    <sdpi-item label="Parameter Values (Optional)">
+      <sdpi-textfield
+        setting="parametervalues"
+        placeholder="Command Parameter Values Here"
+      ></sdpi-textfield>
+    </sdpi-item>
+  </body>
+</html>
