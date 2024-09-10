@@ -4,6 +4,7 @@ import {
   SingletonAction,
   WillAppearEvent,
 } from "@elgato/streamdeck";
+import { send } from "../plugin";
 
 /**
  * An example action class that displays a count that increments by one each time the button is pressed.
@@ -27,7 +28,7 @@ export class ToggleSlur extends SingletonAction<CommandSettings> {
     const slur = ev.payload.settings.slur;
     let command = !slur ? "NoteInput.SlurStart" : "NoteInput.SlurStop";
 
-    fetch("http://localhost:5000/", {
+    send({
       method: "POST",
       body: JSON.stringify({
         command: command,

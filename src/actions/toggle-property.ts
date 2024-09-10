@@ -4,6 +4,7 @@ import {
   SingletonAction,
   WillAppearEvent,
 } from "@elgato/streamdeck";
+import { send } from "../plugin";
 
 /**
  * An example action class that displays a count that increments by one each time the button is pressed.
@@ -23,7 +24,7 @@ export class ToggleProperty extends SingletonAction<CommandSettings> {
    * settings using `setSettings` and `getSettings`.
    */
   async onKeyDown(ev: KeyDownEvent<CommandSettings>): Promise<void> {
-    fetch("http://localhost:5000/", {
+    send({
       method: "POST",
       body: JSON.stringify({
         command: "ToggleProperty",
