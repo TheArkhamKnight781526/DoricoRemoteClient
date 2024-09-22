@@ -9,7 +9,7 @@ import { send } from "../plugin";
 /**
  * An example action class that displays a count that increments by one each time the button is pressed.
  */
-@action({ UUID: "com.finishingahat.doricoremote.toggle_property" })
+@action({ UUID: "com.finishingahat.doricoremote.toggle-property" })
 export class ToggleProperty extends SingletonAction<CommandSettings> {
   /**
    * The {@link SingletonAction.onWillAppear} event is useful for setting the visual representation of an action when it become visible. This could be due to the Stream Deck first

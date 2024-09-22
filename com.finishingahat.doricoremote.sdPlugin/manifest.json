@@ -19,7 +19,7 @@
     },
     {
       "Name": "ToggleSlur",
-      "UUID": "com.finishingahat.doricoremote.toggle_slur",
+      "UUID": "com.finishingahat.doricoremote.toggle-slur",
       "Icon": "imgs/plugin/command-icon",
       "Tooltip": "Toggles Slur - Based only on Stream Deck, not Dorico",
       "Controllers": ["Keypad"],
@@ -32,7 +32,7 @@
     },
     {
       "Name": "ToggleProperty",
-      "UUID": "com.finishingahat.doricoremote.toggle_property",
+      "UUID": "com.finishingahat.doricoremote.toggle-property",
       "Icon": "imgs/plugin/command-icon",
       "Tooltip": "Toggles Command based on Property",
       "Controllers": ["Keypad"],
