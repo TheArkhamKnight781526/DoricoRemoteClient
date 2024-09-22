@@ -29,11 +29,11 @@ export class SendCommand extends SingletonAction<CommandSettings> {
       body: JSON.stringify({
         command: ev.payload.settings.command,
         parameterNames: (ev.payload.settings.parameternames || "")
-          .replaceAll(" ", "")
-          .split(","),
+          .split(",")
+          .map((s) => s.trim()),
         parameterValues: (ev.payload.settings.parametervalues || "")
-          .replaceAll(" ", "")
-          .split(","),
+          .split(",")
+          .map((s) => s.trim()),
       }),
       headers: {
         "Content-Type": "application/json; charset=UTF-8",
