@@ -11,11 +11,11 @@
       "Controllers": ["Keypad"],
       "States": [
         {
-          "Image": "imgs/actions/counter/key",
+          "Image": "imgs/actions/commands/key",
           "TitleAlignment": "middle"
         }
       ],
-      "PropertyInspectorPath": "imgs/actions/counter/send-command.html"
+      "PropertyInspectorPath": "imgs/actions/commands/send-command.html"
     },
     {
       "Name": "ToggleSlur",
@@ -25,7 +25,7 @@
       "Controllers": ["Keypad"],
       "States": [
         {
-          "Image": "imgs/actions/counter/key",
+          "Image": "imgs/actions/commands/key",
           "TitleAlignment": "middle"
         }
       ]
@@ -38,11 +38,11 @@
       "Controllers": ["Keypad"],
       "States": [
         {
-          "Image": "imgs/actions/counter/key",
+          "Image": "imgs/actions/commands/key",
           "TitleAlignment": "middle"
         }
       ],
-      "PropertyInspectorPath": "imgs/actions/counter/toggle-property.html"
+      "PropertyInspectorPath": "imgs/actions/commands/toggle-property.html"
     }
   ],
   "Category": "Dorico Remote",
