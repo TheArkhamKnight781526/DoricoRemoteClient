@@ -715,39 +715,54 @@
     "tags": ["Time Signatures"]
   },
   {
-	"name": "5 4 (3+2)",
-	"path": "5-4 (3+2).svg",
-	"tags": ["Time Signatures"]
+    "name": "5 4",
+    "path": "5-4.svg",
+    "tags": ["Time Signatures"]
   },
   {
-	"name": "5 4 (2+3)",
-	"path": "5-4 (2+3).svg",
-	"tags": ["Time Signatures"]
+    "name": "5 4 (3+2)",
+    "path": "5-4 (3+2).svg",
+    "tags": ["Time Signatures"]
   },
   {
-	"name": "5 4 (1x5)",
-	"path": "5-4 (1x5).svg",
-	"tags": ["Time Signatures"]
+    "name": "5 4 (2+3)",
+    "path": "5-4 (2+3).svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "5 4 (1x5)",
+    "path": "5-4 (1x5).svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "5 8",
+    "path": "5-8.svg",
+    "tags": ["Time Signatures"]
   },
   {
     "name": "5 8 (3+2)",
     "path": "5-8 (3+2).svg",
     "tags": ["Time Signatures"]
   },
-   {
+  {
     "name": "5 8 (2+3)",
     "path": "5-8 (2+3).svg",
     "tags": ["Time Signatures"]
   },
   {
-	"name": "6 4 (3+3)",
-	"path": "6-4 (3+3).svg",
-	"tags": ["Time Signatures"]
+    "name": "6 4",
+    "path": "6-4.svg",
+    "tags": ["Time Signatures"]
   },
-   {
-	"name": "6 4 (1x6)",
-	"path": "6-4 (1x6).svg",
-	"tags": ["Time Signatures"]
+  {
+    "name": "6 4 (3+3)",
+    "path": "6-4 (3+3).svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "6 4 (1x6)",
+    "path": "6-4 (1x6).svg",
+    "tags": ["Time Signatures"]
   },
   {
     "name": "6 8",
@@ -759,12 +774,12 @@
     "path": "7-8.svg",
     "tags": ["Time Signatures"]
   },
-   {
+  {
     "name": "7 8 (3+2+2)",
     "path": "7-8 (3+2+2).svg",
     "tags": ["Time Signatures"]
   },
-    {
+  {
     "name": "7 8 (2+2+3)",
     "path": "7-8 (2+2+3).svg",
     "tags": ["Time Signatures"]
