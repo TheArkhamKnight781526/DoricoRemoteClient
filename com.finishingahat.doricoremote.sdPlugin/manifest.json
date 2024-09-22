@@ -6,7 +6,7 @@
     {
       "Name": "Command",
       "UUID": "com.finishingahat.doricoremote.command",
-      "Icon": "imgs/actions/counter/icon",
+      "Icon": "imgs/plugin/command-icon",
       "Tooltip": "Sends an HTTP GET request to Port 5000, which is received by the C# server.",
       "Controllers": ["Keypad"],
       "States": [
@@ -20,7 +20,7 @@
     {
       "Name": "ToggleSlur",
       "UUID": "com.finishingahat.doricoremote.toggle_slur",
-      "Icon": "imgs/actions/counter/icon",
+      "Icon": "imgs/plugin/command-icon",
       "Tooltip": "Toggles Slur - Based only on Stream Deck, not Dorico",
       "Controllers": ["Keypad"],
       "States": [
@@ -33,7 +33,7 @@
     {
       "Name": "ToggleProperty",
       "UUID": "com.finishingahat.doricoremote.toggle_property",
-      "Icon": "imgs/actions/counter/icon",
+      "Icon": "imgs/plugin/command-icon",
       "Tooltip": "Toggles Command based on Property",
       "Controllers": ["Keypad"],
       "States": [
@@ -45,8 +45,8 @@
       "PropertyInspectorPath": "imgs/actions/counter/toggle-property.html"
     }
   ],
-  "Category": "DoricoRemote",
-  "CategoryIcon": "imgs/plugin/category-icon",
+  "Category": "Dorico Remote",
+  "CategoryIcon": "imgs/plugin/dorico-icon",
   "CodePath": "bin/plugin.js",
   "Description": "Stream Deck Plugin for interfacing with Dorico",
   "Icon": "imgs/plugin/marketplace",
