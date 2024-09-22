@@ -1,0 +1,9 @@
+{
+  "Name": "Dorico Icon Pack",
+  "Version": "1.0.0",
+  "Description": "Icon Pack for DoricoRemote, created by u/FinishingAHat. Dorico and the Dorico logo are registered trademarks of Steinberg Media Technologies GmbH in the United States, European Union and other countries, used with permission.",
+  "Author": "FinishingAHat",
+  "URL": "https://github.com/TheArkhamKnight781526/DoricoRemoteClient",
+  "Icon": "icon.svg",
+  "License": "license.txt"
+}

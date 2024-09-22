@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Accent (Articulations)",
+    "path": "accent-articulations.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Arpeggio",
+    "path": "arpeggio.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Articulations Folder",
+    "path": "articulations-folder.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Bend",
+    "path": "bend.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Caesura",
+    "path": "caesura.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Close Mute",
+    "path": "close-mute.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Copy Articulation",
+    "path": "copy-articulation.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Doit Wavy",
+    "path": "doit-wavy.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Doit",
+    "path": "doit.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Down Bow",
+    "path": "down-bow.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Fall",
+    "path": "fall.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Fermata",
+    "path": "fermata.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Flip",
+    "path": "flip.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Jazz Turn",
+    "path": "jazz-turn.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Lift",
+    "path": "lift.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Long Fermata",
+    "path": "long-fermata.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Marcato",
+    "path": "marcato.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Open Mute",
+    "path": "open-mute.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Paste Articulation",
+    "path": "paste-articulation.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Plop Wavy",
+    "path": "plop-wavy.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Plop",
+    "path": "plop.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Remove Jazz Articulations",
+    "path": "remove-jazz-articulations.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Scoop",
+    "path": "scoop.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Short Fermata",
+    "path": "short-fermata.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Smear",
+    "path": "smear.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Staccatissimo",
+    "path": "staccatissimo.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Staccato (Articulations)",
+    "path": "staccato-articulations.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Stress",
+    "path": "stress.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Tenuto Staccato",
+    "path": "tenuto-staccato.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Tenuto (Articulations)",
+    "path": "tenuto-articulations.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Unstress",
+    "path": "unstress.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Up Bow",
+    "path": "up-bow.svg",
+    "tags": ["Articulations"]
+  },
+  {
+    "name": "Dotted",
+    "path": "dotted.svg",
+    "tags": ["Bars"]
+  },
+  {
+    "name": "Double",
+    "path": "double.svg",
+    "tags": ["Bars"]
+  },
+  {
+    "name": "End Repeat",
+    "path": "end-repeat.svg",
+    "tags": ["Bars"]
+  },
+  {
+    "name": "End Start",
+    "path": "end-start.svg",
+    "tags": ["Bars"]
+  },
+  {
+    "name": "Final",
+    "path": "final.svg",
+    "tags": ["Bars"]
+  },
+  {
+    "name": "Folder Icon",
+    "path": "folder-icon.svg",
+    "tags": ["Bars"]
+  },
+  {
+    "name": "Heavy",
+    "path": "heavy.svg",
+    "tags": ["Bars"]
+  },
+  {
+    "name": "Normal",
+    "path": "normal.svg",
+    "tags": ["Bars"]
+  },
+  {
+    "name": "Start Repeat",
+    "path": "start-repeat.svg",
+    "tags": ["Bars"]
+  },
+  {
+    "name": "Alto Clef",
+    "path": "alto-clef.svg",
+    "tags": ["Clefs and Octaves"]
+  },
+  {
+    "name": "Bass Clef",
+    "path": "bass-clef.svg",
+    "tags": ["Clefs and Octaves"]
+  },
+  {
+    "name": "Clefs And Octaves",
+    "path": "clefs-and-octaves.svg",
+    "tags": ["Clefs and Octaves"]
+  },
+  {
+    "name": "Octave Custom Line",
+    "path": "octave-custom-line.svg",
+    "tags": ["Clefs and Octaves"]
+  },
+  {
+    "name": "Octave Down Line",
+    "path": "octave-down-line.svg",
+    "tags": ["Clefs and Octaves"]
+  },
+  {
+    "name": "Octave Up Line",
+    "path": "octave-up-line.svg",
+    "tags": ["Clefs and Octaves"]
+  },
+  {
+    "name": "Tenor Clef",
+    "path": "tenor-clef.svg",
+    "tags": ["Clefs and Octaves"]
+  },
+  {
+    "name": "Treble Clef 8vb",
+    "path": "treble-clef-8vb.svg",
+    "tags": ["Clefs and Octaves"]
+  },
+  {
+    "name": "Treble Clef",
+    "path": "treble-clef.svg",
+    "tags": ["Clefs and Octaves"]
+  },
+  {
+    "name": "Cresc",
+    "path": "cresc.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Crescendo",
+    "path": "crescendo.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Custom Dynamic",
+    "path": "custom-dynamic.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Decrescendo",
+    "path": "decrescendo.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Dim",
+    "path": "dim.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Dynamics Folder",
+    "path": "dynamics-folder.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Forte",
+    "path": "forte.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Fortissimo",
+    "path": "fortissimo.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Mezzo Forte",
+    "path": "mezzo-forte.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Mezzo Piano",
+    "path": "mezzo-piano.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Niente",
+    "path": "niente.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Pianissimo",
+    "path": "pianissimo.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Piano",
+    "path": "piano.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Sub",
+    "path": "sub.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Triple Forte",
+    "path": "triple-forte.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "Triple Piano",
+    "path": "triple-piano.svg",
+    "tags": ["Dynamics"]
+  },
+  {
+    "name": "A Major",
+    "path": "a-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "A Minor",
+    "path": "a-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Aflat Major",
+    "path": "aflat-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Aflat Minor",
+    "path": "aflat-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Asharp Minor",
+    "path": "asharp-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "B Major",
+    "path": "b-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "B Minor",
+    "path": "b-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Bflat Major",
+    "path": "bflat-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Bflat Minor",
+    "path": "bflat-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "C Major",
+    "path": "c-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "C Minor",
+    "path": "c-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Cflat Major",
+    "path": "cflat-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Csharp Major",
+    "path": "csharp-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Csharp Minor",
+    "path": "csharp-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "D Major",
+    "path": "d-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "D Minor",
+    "path": "d-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Dflat Major",
+    "path": "dflat-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Dsharp Minor",
+    "path": "dsharp-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "E Major",
+    "path": "e-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "E Minor",
+    "path": "e-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Eflat Major",
+    "path": "eflat-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Eflat Minor",
+    "path": "eflat-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "F Major",
+    "path": "f-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "F Minor",
+    "path": "f-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Fsharp Major",
+    "path": "fsharp-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Fsharp Minor",
+    "path": "fsharp-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "G Major",
+    "path": "g-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "G Minor",
+    "path": "g-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Gflat Major",
+    "path": "gflat-major.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Gsharp Minor",
+    "path": "gsharp-minor.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Keys Folder",
+    "path": "keys-folder.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "Open Atonal",
+    "path": "open-atonal.svg",
+    "tags": ["Keys"]
+  },
+  {
+    "name": "128 Note",
+    "path": "128-note.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "64 Note",
+    "path": "64-note.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Accent (Notes)",
+    "path": "accent-notes.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Add Voice",
+    "path": "add-voice.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Augmentation Dot",
+    "path": "augmentation-dot.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Beam Together",
+    "path": "beam-together.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Breve",
+    "path": "breve.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Change Voice",
+    "path": "change-voice.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Chords",
+    "path": "chords.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Chromatic Down",
+    "path": "chromatic-down.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Chromatic Up",
+    "path": "chromatic-up.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Crotchet",
+    "path": "crotchet.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Demisemiquaver",
+    "path": "demisemiquaver.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Diatonic Down",
+    "path": "diatonic-down.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Diatonic Up",
+    "path": "diatonic-up.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Double Dot",
+    "path": "double-dot.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Double Flat",
+    "path": "double-flat.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Double Sharp",
+    "path": "double-sharp.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "End Tuplet",
+    "path": "end-tuplet.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Flat",
+    "path": "flat.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Force Duration",
+    "path": "force-duration.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Minim",
+    "path": "minim.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Natural",
+    "path": "natural.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Notes Folder",
+    "path": "notes-folder.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Octave Down",
+    "path": "octave-down.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Octave Up",
+    "path": "octave-up.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Quaver",
+    "path": "quaver.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Semibreve",
+    "path": "semibreve.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Semiquaver",
+    "path": "semiquaver.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Sharp",
+    "path": "sharp.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Slur",
+    "path": "slur.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Staccato (Notes)",
+    "path": "staccato-notes.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Start Note Input",
+    "path": "start-note-input.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Tenuto (Notes)",
+    "path": "tenuto-notes.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Tie",
+    "path": "tie.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Toggle Brackets",
+    "path": "toggle-brackets.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Triplet",
+    "path": "triplet.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "Tuplet",
+    "path": "tuplet.svg",
+    "tags": ["Notes"]
+  },
+  {
+    "name": "12 8",
+    "path": "12-8.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "2 2",
+    "path": "2-2.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "2 4",
+    "path": "2-4.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "3 2",
+    "path": "3-2.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "3 4",
+    "path": "3-4.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "3 8",
+    "path": "3-8.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "4 4",
+    "path": "4-4.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+	"name": "5 4 (3+2)",
+	"path": "5-4 (3+2).svg",
+	"tags": ["Time Signatures"]
+  },
+  {
+	"name": "5 4 (2+3)",
+	"path": "5-4 (2+3).svg",
+	"tags": ["Time Signatures"]
+  },
+  {
+	"name": "5 4 (1x5)",
+	"path": "5-4 (1x5).svg",
+	"tags": ["Time Signatures"]
+  },
+  {
+    "name": "5 8 (3+2)",
+    "path": "5-8 (3+2).svg",
+    "tags": ["Time Signatures"]
+  },
+   {
+    "name": "5 8 (2+3)",
+    "path": "5-8 (2+3).svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+	"name": "6 4 (3+3)",
+	"path": "6-4 (3+3).svg",
+	"tags": ["Time Signatures"]
+  },
+   {
+	"name": "6 4 (1x6)",
+	"path": "6-4 (1x6).svg",
+	"tags": ["Time Signatures"]
+  },
+  {
+    "name": "6 8",
+    "path": "6-8.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "7 8",
+    "path": "7-8.svg",
+    "tags": ["Time Signatures"]
+  },
+   {
+    "name": "7 8 (3+2+2)",
+    "path": "7-8 (3+2+2).svg",
+    "tags": ["Time Signatures"]
+  },
+    {
+    "name": "7 8 (2+2+3)",
+    "path": "7-8 (2+2+3).svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "9 8",
+    "path": "9-8.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "Common Time",
+    "path": "common-time.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "Custom Time Signature",
+    "path": "custom-time-signature.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "Cut Time",
+    "path": "cut-time.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "Open",
+    "path": "open.svg",
+    "tags": ["Time Signatures"]
+  },
+  {
+    "name": "Time Signatures Folder",
+    "path": "time-signatures-folder.svg",
+    "tags": ["Time Signatures"]
+  }
+]
